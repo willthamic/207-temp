@@ -1,4 +1,7 @@
 i am creating a merge conflict!!!!!!!!!!!!!!!!!!!!
+double up
+
+I failed to make a merge conflict last time but this time I will succeed!
 
 
-I failed to make a merge conflict last time but this time I will succeed!.
+double up double up.
